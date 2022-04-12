@@ -10,7 +10,7 @@ namespace Task3
     {
         public string Print(int numerator, int denominator, int count)
         {
-            throw new NotImplementedException();
+            return (Convert.ToDecimal(numerator) / Convert.ToDecimal(denominator)).ToString("N"+count);
         }
     }
 }
