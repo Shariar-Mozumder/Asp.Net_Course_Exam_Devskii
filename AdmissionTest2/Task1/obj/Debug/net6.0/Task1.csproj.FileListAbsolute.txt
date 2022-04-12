@@ -1,0 +1,15 @@
+D:\Asp.Net\Devskill\Asp.Net_Course_Exam_Devskii\AdmissionTest2\Task1\bin\Debug\net6.0\Task1.exe
+D:\Asp.Net\Devskill\Asp.Net_Course_Exam_Devskii\AdmissionTest2\Task1\bin\Debug\net6.0\Task1.deps.json
+D:\Asp.Net\Devskill\Asp.Net_Course_Exam_Devskii\AdmissionTest2\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+D:\Asp.Net\Devskill\Asp.Net_Course_Exam_Devskii\AdmissionTest2\Task1\bin\Debug\net6.0\Task1.dll
+D:\Asp.Net\Devskill\Asp.Net_Course_Exam_Devskii\AdmissionTest2\Task1\bin\Debug\net6.0\Task1.pdb
+D:\Asp.Net\Devskill\Asp.Net_Course_Exam_Devskii\AdmissionTest2\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+D:\Asp.Net\Devskill\Asp.Net_Course_Exam_Devskii\AdmissionTest2\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net\Devskill\Asp.Net_Course_Exam_Devskii\AdmissionTest2\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+D:\Asp.Net\Devskill\Asp.Net_Course_Exam_Devskii\AdmissionTest2\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+D:\Asp.Net\Devskill\Asp.Net_Course_Exam_Devskii\AdmissionTest2\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+D:\Asp.Net\Devskill\Asp.Net_Course_Exam_Devskii\AdmissionTest2\Task1\obj\Debug\net6.0\Task1.dll
+D:\Asp.Net\Devskill\Asp.Net_Course_Exam_Devskii\AdmissionTest2\Task1\obj\Debug\net6.0\refint\Task1.dll
+D:\Asp.Net\Devskill\Asp.Net_Course_Exam_Devskii\AdmissionTest2\Task1\obj\Debug\net6.0\Task1.pdb
+D:\Asp.Net\Devskill\Asp.Net_Course_Exam_Devskii\AdmissionTest2\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+D:\Asp.Net\Devskill\Asp.Net_Course_Exam_Devskii\AdmissionTest2\Task1\obj\Debug\net6.0\ref\Task1.dll
